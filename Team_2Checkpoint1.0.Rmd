@@ -38,10 +38,12 @@ using R and/or Tableau.
  
  
   #6. Submit draft of progress at Checkpoint 1 and Checkpoint 2. 
+  We are currently compiling a markdown document for Checkpoint 1 detailing our progress on setting up our GitHub repo, coordinating on the eight major tasks, realizing the challenges and victories of GitHub, and documenting our contributions. We will make all efforts to submit Checkpoint 1 by Sunday, Feb. 12 at 11:59pm. The GitHub branch named Team_2Checkpoint_1.0 has been created.
+  
 
 
   #7. Summarize your findings in a short video presentation.  
- 
+ We have not yet begun to create the video presentation, but are organizing our documentation so that we know which key points to highlight, as well as the obstacles we faced along the way.
  
   #8. Publish a detailed, well formatted R markdown report of your analytical story to your GitHub repository. Report requirements are outlined below. 
 
@@ -50,4 +52,6 @@ The main challenge working and collaborating on GitHub is the overall unfamiliar
 
 #Individual Contributions
 Caroline -
+Seth - 
+Monica -
 
